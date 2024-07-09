@@ -70,7 +70,8 @@ No cypress.json iremos inserir a url que iremos utilizar, por exemplo:
 
 - Criando page:
 
-![enter image description here](https://i.imgur.com/68YpABf.png)
+![image](https://github.com/yurimelo96/CypressAutomation/assets/54452187/2ded767e-d8bd-431c-9c17-edad414a0688)
+
 
 - Criando Integration (testes):
 
@@ -201,7 +202,6 @@ Abra a Pasta criada:
   Nesta pasta criada dê o comando:
   `npm init -y`
 
-![criando projeto](https://i.imgur.com/hcSI6W7.png)
 
   
 
@@ -210,7 +210,6 @@ Abra a Pasta criada:
 
  Irá adicionar o package-lock.json e o node_modules ao projeto.
 
-![instalando cypress](https://i.imgur.com/fE3d3pj.png)
 
   
 
@@ -238,7 +237,8 @@ Para executar os testes posteriormente vamos configurar o json, adicionando o se
   `npm run open`
 
 
-![abrindo cypress](https://i.imgur.com/Mdig0he.png)
+![image](https://github.com/yurimelo96/CypressAutomation/assets/54452187/a28a0c44-60b9-4bac-94c4-523ddaab7587)
+
 
  - Para executar no terminal;
  `npm run cy`
